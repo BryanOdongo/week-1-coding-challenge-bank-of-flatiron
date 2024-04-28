@@ -83,6 +83,55 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Transport",
+      "category": "Misc",
+      "amount": "100",
+      "id": 13
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Transport",
+      "category": "Misc",
+      "amount": 100,
+      "id": 14
+    },
+    {
+      "date": "2024-05-01",
+      "description": "Transport",
+      "category": "Misc",
+      "amount": 150,
+      "id": 15
+    },
+    {
+      "date": "2024-05-02",
+      "description": "Transport",
+      "category": "Misc",
+      "amount": 300,
+      "id": 16
+    },
+    {
+      "date": "2024-04-24",
+      "description": "Transport",
+      "category": "Misc",
+      "amount": 4300,
+      "id": 17
+    },
+    {
+      "date": "2024-04-04",
+      "description": "ddasdadasda",
+      "category": "dadasdsada",
+      "amount": 343,
+      "id": 18
+    },
+    {
+      "date": "2024-04-19",
+      "description": "Professional Photo",
+      "category": "90th Birthday",
+      "amount": 120,
+      "id": 19
     }
   ]
 }
